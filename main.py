@@ -3,7 +3,7 @@ from datetime import datetime
 while True:
    
    print("------------------------------------------")
-   print("       🎓 CAMPUS SURVIVAL ASSISTANT")
+   print("        CAMPUS SURVIVAL ASSISTANT")
    print("------------------------------------------")
 
    print("1. Attendance Calculator")
